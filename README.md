@@ -1,6 +1,6 @@
 # phpBB Extension - marttiphpbb PHP Ext Calendar
 
-[Topic on phpbb.com](https://www.phpbb.com/community/viewtopic.php?f=456&t=)
+[Topic on phpbb.com](https://www.phpbb.com/community/viewtopic.php?f=456&t=2499611)
 
 ## Description
 

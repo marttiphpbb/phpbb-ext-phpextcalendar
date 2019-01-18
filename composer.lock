@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "f9bcf23ecb3cd0b90bd775fcdacc8a5a",
+    "content-hash": "94b9c3a806e3404cf44bcce8d853e3ab",
     "packages": [
         {
             "name": "fisharebest/ext-calendar",

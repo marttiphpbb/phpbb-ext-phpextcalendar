@@ -6,7 +6,9 @@
 
 This phpBB extension adds the dependency [fisharebest/ext-calendar](https://github.com/fisharebest/ext-calendar) which provides the PHP calendar functions written in plain PHP as a drop in when PHP on your server was not compiled with --calendar-enabled.
 
-This could be useful when you use extensions from my [Calendar Set] as they all use PHP Calendar functions.
+This could be useful when you use extensions from my [Calendar Set](https://github.com/marttiphpbb/phpbb-ext-calendarmono/blob/master/doc/calendar-set.md) as they all use PHP Calendar functions.
+
+After install you should run `composer update` in the root of this extension. Or, alternatively, download the composer build with the vendor/ directory included from the latest [Release](https://github.com/marttiphpbb/phpbb-ext-phpextcalendar/releases)
 
 ## Requirements
 
@@ -17,18 +19,18 @@ This could be useful when you use extensions from my [Calendar Set] as they all 
 
 You can install this on the latest release of phpBB 3.2 by following the steps below:
 
-* Create `marttiphpbb/calendarmono` in the `ext` directory.
-* Download and unpack the repository into `ext/marttiphpbb/calendarmono`
-* Enable `Calendar Mono` in the ACP at `Customise -> Manage extensions`.
+* Create `marttiphpbb/phpextcalendar` in the `ext` directory.
+* Download and unpack the repository into `ext/marttiphpbb/phpextcalendar`
+* Enable `PHP Ext Calendar` in the ACP at `Customise -> Manage extensions`.
 
 ## Uninstall
 
-* Disable `Calendar Mono` in the ACP at `Customise -> Extension Management -> Extensions`.
-* To permanently uninstall, click `Delete Data`. Optionally delete the `/ext/marttiphpbb/calendarmono` directory.
+* Disable `PHP Ext Calendar` in the ACP at `Customise -> Extension Management -> Extensions`.
+* To permanently uninstall, click `Delete Data`. Optionally delete the `/ext/marttiphpbb/phpextcalendar` directory.
 
 ## Support
 
-* Report bugs and other issues to the [Issue Tracker](https://github.com/marttiphpbb/phpbb-ext-calendarmono/issues).
+* Report bugs and other issues to the [Issue Tracker](https://github.com/marttiphpbb/phpbb-ext-phpextcalendar/issues).
 
 ## License
 
